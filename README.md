@@ -7,4 +7,4 @@ The dataset used in this assignment consists of items purchased by 7500 people a
 ## Partial Output:
 
 
-![alt text](https://github.com/OmRajpurkar/Apriori-Algorithm-Implementation-with-Grocery-Shop-Dataset/blob/master/Output%20Screenshot.png)
+![alt text](https://github.com/OmRajpurkar/Apriori-Algorithm-Implementation-with-Grocery-Shop-Dataset/blob/master/Screenshot.png)
