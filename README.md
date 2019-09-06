@@ -3,4 +3,4 @@ Apriori Algorithm implementation with Grocery Shop Dataset using Jupyter Noteboo
 
 Output:
 
-![alt text]()
+![alt text](https://github.com/OmRajpurkar/Apriori-Algorithm-Implementation-with-Grocery-Shop-Dataset/blob/master/Output%20Screenshot.png)
